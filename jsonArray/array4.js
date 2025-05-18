@@ -117,6 +117,12 @@ var company = [
   ]
 
 
+let x = company.find((comp)=> comp.employees.find((emp)=> emp.name === "Emily Davis")).employees.find((emp)=> emp.name === "Emily Davis").position
+console.log(x);
+
+
+
+
 
 // List all company names.
 // Extract and display only the companyName fields from the JSON array.
