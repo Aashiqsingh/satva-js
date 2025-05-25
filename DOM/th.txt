@@ -1,0 +1,16 @@
+DOM -- Document Object Model
+
+DOM is a programming interface for HTML and XML documents.
+
+
+
+Identifier 
+1. id -- unique
+2. class -- multiple
+3. name - multiple
+4. tagName - multiple
+5. querrySelector
+
+
+Event :
+1. onclick
