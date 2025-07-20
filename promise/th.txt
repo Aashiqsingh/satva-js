@@ -1,0 +1,19 @@
+Promise ---> pending-- (fullfilled/reject)
+
+promise -- javascript -- class
+
+
+There are two types of Promises
+1. Synchronous
+    - block sync
+        - then catch 
+    - function 
+        - async await
+2. Asynchronous 
+
+
+########################################################
+
+*********************************************** 4min
+
+#*#*#*
