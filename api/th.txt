@@ -1,0 +1,11 @@
+API --> Application programming interface
+
+
+Baceknd ------ froentend
+
+Api types :
+1. GET
+2. POST
+3. PUT -- update
+4. DELETE -- delete
+5. PATCH - partial update
